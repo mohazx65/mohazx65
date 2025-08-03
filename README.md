@@ -1,11 +1,14 @@
-## Hey, I'm [Mohamed Rizk!](https://github.com/MohamedRizk) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, I'm [Mohamed Rezk!](https://github.com/MohamedRezk) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my humble abode in the Digital World..</h1>
 
-<img src='https://github.com/MohamedRizk/MohamedRizk/blob/master/images/matrix.gif' alt='Awesome Matrix Code' align='right'/>
+<img src='https://github.com/MohamedRezk/MohamedRezk/blob/master/images/matrix.gif' alt='Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20Rizk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-rizk)](https://www.linkedin.com/in/mohamed-rizk) [![Gmail Badge](https://img.shields.io/badge/-mohamedrizk.dev%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedrizk.dev@gmail.com)](mailto:mohamedrizk.dev@gmail.com) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedRizk" alt="MohamedRizk" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20Rezk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-rezk)](https://www.linkedin.com/in/mohamed-rezk) 
+[![Gmail Badge](https://img.shields.io/badge/-mohamedrezkm12%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedrezkm12@gmail.com)](mailto:mohamedrezkm12@gmail.com) 
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-c14438?style=flat-square&logo=WhatsApp&logoColor=white&link=tel:+393517216503)](https://wa.me/393517216503)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedRezk" alt="MohamedRezk" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
@@ -16,28 +19,24 @@
 * JavaScript
 * HTML & CSS
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRizk&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRezk&layout=compact">
 
 ## Programming Languages
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/330px-Python-logo-notext.svg.png" width="50" alt="Python"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="50" alt="HTML"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/CSS3_logo.svg" width="50" alt="CSS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/JavaScript-logo.png" width="50" alt="JavaScript"/>
-</p>
+- Python
+- HTML
+- CSS
+- JavaScript
 
 ## Technologies I Use
-<p>
-  <img src='https://github.com/MohamedRizk/MohamedRizk/blob/master/images/pycharm.svg' width='50' alt="PyCharm"/>  
-  <img src='https://github.com/MohamedRizk/MohamedRizk/blob/master/images/django.svg' height='50' alt="Django Logo"/>  
-  <img src='https://upload.wikimedia.org/wikipedia/commons/0/0f/Git-logo.svg' width='50' alt="Git"/>  
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png' width='50' alt="Bootstrap"/>
-</p>
+- Git
+- Bootstrap
+- Django
+- Flask
 
 ## Who am I?
 ```python
 class WhoAmI:
- 	user = 'Mohamed Rizk'
+ 	user = 'Mohamed Rezk'
 	current_work = 'Web Developer & Python Enthusiast'
 	hobbies = [
 			'Coding',
@@ -52,7 +51,20 @@ class WhoAmI:
 		LearnMore()
 		CreateInnovativeSolutions()
 		MasterDjango()
-		# Keep learning and growing
+		# Keep learning and growing                                                                                                     
+Building web applications using Django and enhancing my frontend skills.
+
+Working on personal projects to explore new features and libraries in JavaScript and Python.
+
+Exploring machine learning and data science through small projects to learn more about these fields.
+
+Other Stuff
+:octocat: My Resume
+
+If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself. (P.S. Star it too!! :grimacing: )
 
 
-د
+markdown
+Copia
+Modifica
+
