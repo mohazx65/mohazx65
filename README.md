@@ -19,10 +19,20 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRizk&layout=compact">
 
 ## Programming Languages
-<img src='https://github.com/MohamedRizk/MohamedRizk/blob/master/images/python2.png' height='30'/>  <img src='https://github.com/MohamedRizk/MohamedRizk/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MohamedRizk/MohamedRizk/blob/master/images/css.svg' width='30'/> <img src='https://github.com/MohamedRizk/MohamedRizk/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MohamedRizk/MohamedRizk/blob/master/images/django.svg' height='40'/> 
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/330px-Python-logo-notext.svg.png" width="50" alt="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="50" alt="HTML"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/CSS3_logo.svg" width="50" alt="CSS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/JavaScript-logo.png" width="50" alt="JavaScript"/>
+</p>
 
 ## Technologies I Use
-<img src = 'https://github.com/MohamedRizk/MohamedRizk/blob/master/images/pycharm.svg' width='30'/>  <img src='https://github.com/MohamedRizk/MohamedRizk/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MohamedRizk/MohamedRizk/blob/master/images/git.svg' width='30'/>
+<p>
+  <img src='https://github.com/MohamedRizk/MohamedRizk/blob/master/images/pycharm.svg' width='50' alt="PyCharm"/>  
+  <img src='https://github.com/MohamedRizk/MohamedRizk/blob/master/images/django.svg' height='50' alt="Django Logo"/>  
+  <img src='https://upload.wikimedia.org/wikipedia/commons/0/0f/Git-logo.svg' width='50' alt="Git"/>  
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png' width='50' alt="Bootstrap"/>
+</p>
 
 ## Who am I?
 ```python
@@ -44,3 +54,5 @@ class WhoAmI:
 		MasterDjango()
 		# Keep learning and growing
 
+
+د
