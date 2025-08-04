@@ -7,6 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20Rezk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-rezk)](https://www.linkedin.com/in/mohamed-rezk) 
 [![Gmail Badge](https://img.shields.io/badge/-mohamedrezkm12%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedrezkm12@gmail.com)](mailto:mohamedrezkm12@gmail.com) 
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-c14438?style=flat-square&logo=WhatsApp&logoColor=white&link=tel:+393517216503)](https://wa.me/393517216503)
+[![Facebook Badge](https://img.shields.io/badge/-Mohamed%20Ragab-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Mohamed.Ragab)](https://www.facebook.com/Mohamed.Ragab)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedRezk" alt="MohamedRezk" /> </p>
 
@@ -51,20 +52,4 @@ class WhoAmI:
 		LearnMore()
 		CreateInnovativeSolutions()
 		MasterDjango()
-		# Keep learning and growing                                                                                                     
-Building web applications using Django and enhancing my frontend skills.
-
-Working on personal projects to explore new features and libraries in JavaScript and Python.
-
-Exploring machine learning and data science through small projects to learn more about these fields.
-
-Other Stuff
-:octocat: My Resume
-
-If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself. (P.S. Star it too!! :grimacing: )
-
-
-markdown
-Copia
-Modifica
-
+		# Keep learning and growing
