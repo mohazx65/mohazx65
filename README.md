@@ -4,10 +4,10 @@
 
 <img src='https://github.com/MohamedRezk/MohamedRezk/blob/master/images/matrix.gif' alt='Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20Rezk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-rezk)](https://www.linkedin.com/in/mohamed-rezk) 
+ 
 [![Gmail Badge](https://img.shields.io/badge/-mohamedrezkm12%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedrezkm12@gmail.com)](mailto:mohamedrezkm12@gmail.com) 
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-c14438?style=flat-square&logo=WhatsApp&logoColor=white&link=tel:+393517216503)](https://wa.me/393517216503)
-[![Facebook Badge](https://img.shields.io/badge/-Mohamed%20Ragab-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Mohamed.Ragab)](https://www.facebook.com/Mohamed.Ragab)
+[![Facebook Badge](https://img.shields.io/badge/-Mohamed%20Ragab-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Mohamed.Ragab)]([https://www.facebook.com/Mohamed.Ragab](https://www.facebook.com/profile.php?id=61566972835649))
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedRezk" alt="MohamedRezk" /> </p>
 
@@ -29,8 +29,6 @@
 - JavaScript
 
 ## Technologies I Use
-- Git
-- Bootstrap
 - Django
 - Flask
 
